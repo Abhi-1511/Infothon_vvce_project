@@ -1,4 +1,5 @@
 # Infothon_vvce_project
+By team of 4
 
 Effective Financial Oversight: A money management framework provides a well-structured approach for efficiently handling financial matters, encompassing several key aspects.
 
